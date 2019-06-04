@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JokamBot</string>
+    <string name="what_s_on_your_mind">Type message to make reservation or order pizza</string>
+</resources>
